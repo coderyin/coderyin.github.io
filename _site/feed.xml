@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 25 Oct 2016 16:43:43 +0800</pubDate>
-    <lastBuildDate>Tue, 25 Oct 2016 16:43:43 +0800</lastBuildDate>
+    <pubDate>Tue, 25 Oct 2016 16:53:11 +0800</pubDate>
+    <lastBuildDate>Tue, 25 Oct 2016 16:53:11 +0800</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
     
       <item>
@@ -16,15 +16,15 @@
 
 &lt;p&gt;第一步 – 下载
   打开Xcode - 选择 Xcode -&amp;gt; Open Developer Tool -&amp;gt; More Develop Tools。用苹果账号登录网站，搜索Hardware IO Tools 下载Xcode对应版本的工具。
-&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/734694-eb3808782a56c1fd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&quot; alt=&quot;屏幕快照 2016-04-22 16.47.15.png&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/734694-eb3808782a56c1fd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&quot; alt=&quot;下载&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;第二步 – 安装 
 打开下载的文件，双击其中的 Network Link Conditioner 安装。
-&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/734694-2985b5ec06b95ddc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&quot; alt=&quot;屏幕快照 2016-04-21 21.45.38.png&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/734694-2985b5ec06b95ddc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&quot; alt=&quot;安装&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;安装完成后，工具会在系统设置中的最后一排出现，&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/734694-6256675f10608b70.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&quot; alt=&quot;屏幕快照 2016-04-26 20.28.33.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/734694-6256675f10608b70.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&quot; alt=&quot;工具&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;使用：
 使用非常简单，看一眼就能会，这些配置不能满足需求的话，可以自行配置网络方案，建议模拟慢网速选择Edge模式。开启之后会影响当前mac的网络速度。&lt;/p&gt;
