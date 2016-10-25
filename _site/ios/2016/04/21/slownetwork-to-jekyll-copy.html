@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>    
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width initial-scale=1">
+
+  <title>iOS开发中模拟慢速网络工具Network Link Conditioner的使用</title>
+  <meta name="description" content="最近项目中遇到了很多慢速网络下的bug，为了方便测试，苹果提供了相当好用的网速模拟工具–Network Link Conditioner，使用超级简单。">
+
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="canonical" href="http://localhost:4000/ios/2016/04/21/slownetwork-to-jekyll-copy.html">
+  <link rel="alternate" type="application/atom+xml" title="王寅的技术博客" href="http://localhost:4000/feed.xml" />
+  <script src="/scripts/jquery-1.11.2.min.js"></script>
+  <script src="/scripts/pithy.js"></script>
+</head>
+
+
+  <body>
+    <header class="header">
+	<div class="header-container">
+		<div class="nav">
+			
+				<li>
+					<a href="/index.html">home</a>
+				</li>			
+			
+			
+				<li>
+					<a href="/archive.html">archive</a>
+				</li>			
+			
+			
+				<li>
+					<a href="/category.html">category</a>
+				</li>			
+			
+			
+				<li>
+					<a href="/about.html">about</a>
+				</li>			
+			
+		</div>
+		<div class="description"> 途有境而观无垠 </div>		
+		<ul class="social-links">
+			<li>
+				<a href="https://github.com/coderyin" title="Github">
+					<img width="19px" height="19px" src="/images/github.png"/>
+				</a>
+			</li>
+			<li>
+				<a href="/feed.xml" title="RSS">
+					<img width="19px" height="19px" src="/images/rss.png"/>
+				</a>
+			</li>
+			<li>
+				<a href="https://twitter.com/coderyin" title="Twitter">
+					<img width="19px" height="19px" src="/images/twitter.png"/>
+				</a>
+			</li>
+		</ul>		
+	</div>
+</header>
+
+    <br>
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="post">
+  <br>
+  <header class="post-header">
+    <h1 class="post-title">iOS开发中模拟慢速网络工具Network Link Conditioner的使用</h1>
+    <p class="post-meta">Apr 21, 2016</p>
+  </header>
+
+  <article class="post-content">
+    <p>最近项目中遇到了很多慢速网络下的bug，为了方便测试，苹果提供了相当好用的网速模拟工具–Network Link Conditioner，使用超级简单。</p>
+
+<p>第一步 – 下载
+  打开Xcode - 选择 Xcode -&gt; Open Developer Tool -&gt; More Develop Tools。用苹果账号登录网站，搜索Hardware IO Tools 下载Xcode对应版本的工具。
+<img src="http://upload-images.jianshu.io/upload_images/734694-eb3808782a56c1fd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="屏幕快照 2016-04-22 16.47.15.png" /></p>
+
+<p>第二步 – 安装 
+打开下载的文件，双击其中的 Network Link Conditioner 安装。
+<img src="http://upload-images.jianshu.io/upload_images/734694-2985b5ec06b95ddc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="屏幕快照 2016-04-21 21.45.38.png" /></p>
+
+<p>安装完成后，工具会在系统设置中的最后一排出现，</p>
+
+<p><img src="http://upload-images.jianshu.io/upload_images/734694-6256675f10608b70.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="屏幕快照 2016-04-26 20.28.33.png" /></p>
+
+<p>使用：
+使用非常简单，看一眼就能会，这些配置不能满足需求的话，可以自行配置网络方案，建议模拟慢网速选择Edge模式。开启之后会影响当前mac的网络速度。</p>
+
+<p>tips:</p>
+
+<p>真机调试时模拟网速更加方便，在iPhone设置里，选择开发者-&gt;Status 这个就是网速模拟，选择好模式记得选择Enable打开。</p>
+
+<p><img src="http://upload-images.jianshu.io/upload_images/734694-00063cd47aa79e0c.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="IMG_1673.jpg" /></p>
+
+<p><img src="http://upload-images.jianshu.io/upload_images/734694-f91970ebb3cb4b7f.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="IMG_1673.jpg" /></p>
+
+  </article>
+</div>
+
+      </div>
+    </div>
+    
+    <footer class="footer">
+  <div id="gotop">^</div>
+  <br>
+	@2015 Pithy Theme by Pawpaw.
+</footer>
+
+    
+  </body>
+
+</html>
