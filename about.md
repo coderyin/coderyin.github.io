@@ -1,8 +1,6 @@
 ---
 layout: page
 title: About
-
-permalink: /about/
 ---
 
 iOS 开发工程师
