@@ -8,7 +8,7 @@ categories: iOS
 
 第一步 -- 下载
   打开Xcode - 选择 Xcode -> Open Developer Tool -> More Develop Tools。用苹果账号登录网站，搜索Hardware IO Tools 下载Xcode对应版本的工具。
-![下载](http://upload-images.jianshu.io/upload_images/734694-eb3808782a56c1fd.png)
+![下载](http://h.hiphotos.baidu.com/baike/c0%3Dbaike116%2C5%2C5%2C116%2C38/sign=ea76f49e910a304e462fa8a8b0a1cce3/d53f8794a4c27d1ec572bb5e1dd5ad6edcc438d7.jpg)
 
 
 
