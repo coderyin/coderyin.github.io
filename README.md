@@ -1,14 +1,9 @@
-# Jekyll-Pithy
+# HuxBlog Boilerplate
 
-Jekyll-Pithy is a theme for Jekyll. Here is [my blog](http://devyin.win) which use this theme.
+##### This is the boilerplate of [Hux Blog](https://github.com/Huxpro/huxpro.github.io), all documents is over there!
 
-![image](https://raw.githubusercontent.com/smallmuou/Jekyll-Pithy/master/images/Jekyll-Pithy.png)
+#### [View Boilerplate &rarr;](http://huangxuan.me/huxblog-boilerplate/)
 
-### Usage
-* Clone it.
-* cd Jekyll-Pithy, and Run "jekyll serve"(You must install [jekyll](http://jekyllrb.com/) first)
-* Open web browser and enter "http://127.0.0.1:4000/", you can see the web page like snapshot above.
-* If you want to host you blog on Github Page, you can follow the steps provide by Github.
+#### [View Live Hux Blog &rarr;](http://huangxuan.me)
 
-### License
-The code follows MIT License.
+## If you like Hux Blog, Please star [huxpro.github.io repo](https://github.com/Huxpro/huxpro.github.io) instead of this! Thank you!
