@@ -3,10 +3,10 @@
   <channel>
     <title>王寅的博客</title>
     <description>“途有境而观无垠”</description>
-    <link>http://localhost:4000/blog/</link>
-    <atom:link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 26 Oct 2016 16:45:25 +0800</pubDate>
-    <lastBuildDate>Wed, 26 Oct 2016 16:45:25 +0800</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 26 Oct 2016 16:50:09 +0800</pubDate>
+    <lastBuildDate>Wed, 26 Oct 2016 16:50:09 +0800</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
     
       <item>
@@ -29,8 +29,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Wed, 26 Oct 2016 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/blog/2016/10/26/ios/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2016/10/26/ios/</guid>
+        <link>http://localhost:4000/2016/10/26/ios/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/10/26/ios/</guid>
         
         <category>iOS</category>
         
@@ -65,8 +65,8 @@
 &lt;p&gt;&lt;img src=&quot;http://ofltthb7y.bkt.clouddn.com/blog4.jpg&quot; alt=&quot;IMG_1673.jpg&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 21 Apr 2016 19:23:32 +0800</pubDate>
-        <link>http://localhost:4000/blog/2016/04/21/slownetwork/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2016/04/21/slownetwork/</guid>
+        <link>http://localhost:4000/2016/04/21/slownetwork/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/04/21/slownetwork/</guid>
         
         <category>iOS</category>
         
