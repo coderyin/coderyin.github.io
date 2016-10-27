@@ -16,7 +16,7 @@ weibo_username:     王寅2022
 zhihu_username:     王寅
 github_username:    coderyin
 #twitter_username:  
-facebook_username:  
+#facebook_username:  
 
 
 
@@ -50,7 +50,7 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: 王寅
+duoshuo_username: 王寅的blog
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
