@@ -28,3 +28,22 @@ tags:
 要做蓝牙相关的可以一看。
 
 [刘彦玮的技术博客](http://liuyanwei.jumppo.com/)
+
+##2.Chun Tips
+
+刨根问底
+
+[Chun Tips](http://chun.tips/)
+
+## 3.saitjr.com
+
+博客中有蓝牙官方文档的中文翻译，也有其他技术文章
+
+[saitjr.com](http://chun.tips/)
+
+## 4.里脊肉串的开发随笔
+
+当年看这个入门的masonry
+
+[里脊肉串的开发随笔](http://adad184.com/)
+
