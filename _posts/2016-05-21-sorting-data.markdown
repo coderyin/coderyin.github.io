@@ -29,7 +29,7 @@ tags:
 
 [刘彦玮的技术博客](http://liuyanwei.jumppo.com/)
 
-##2.Chun Tips
+## 2.Chun Tips
 
 刨根问底
 
